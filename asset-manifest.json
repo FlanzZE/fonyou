@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fonyou/static/css/main.9ffbf06a.chunk.css",
+    "main.js": "/fonyou/static/js/main.e24067a6.chunk.js",
+    "main.js.map": "/fonyou/static/js/main.e24067a6.chunk.js.map",
+    "runtime-main.js": "/fonyou/static/js/runtime-main.9bb59533.js",
+    "runtime-main.js.map": "/fonyou/static/js/runtime-main.9bb59533.js.map",
+    "static/js/2.4c9829bd.chunk.js": "/fonyou/static/js/2.4c9829bd.chunk.js",
+    "static/js/2.4c9829bd.chunk.js.map": "/fonyou/static/js/2.4c9829bd.chunk.js.map",
+    "index.html": "/fonyou/index.html",
+    "static/css/main.9ffbf06a.chunk.css.map": "/fonyou/static/css/main.9ffbf06a.chunk.css.map",
+    "static/js/2.4c9829bd.chunk.js.LICENSE.txt": "/fonyou/static/js/2.4c9829bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bb59533.js",
+    "static/js/2.4c9829bd.chunk.js",
+    "static/css/main.9ffbf06a.chunk.css",
+    "static/js/main.e24067a6.chunk.js"
+  ]
+}
